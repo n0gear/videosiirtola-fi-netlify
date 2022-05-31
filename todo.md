@@ -1,0 +1,5 @@
+- [x] create repo to github and local
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
