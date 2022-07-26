@@ -1,5 +1,4 @@
 - [x] create repo to github and local
-- [ ] 
-- [ ] 
+- [x] test the netlify form 
 - [ ] 
 - [ ] 
